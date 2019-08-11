@@ -106,3 +106,4 @@ venv.bak/
 # not system
 .idea/*
 local_file/*
+*/local_file/*
